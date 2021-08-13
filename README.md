@@ -1,1 +1,1 @@
-# rise2021
+# Detecting Schizophrenia Using Machine Learning Analysis of EEG Data 
